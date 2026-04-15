@@ -1,3 +1,7 @@
+iqoptionapi
 numpy
+pandas
+scikit-learn
 requests
 websocket-client
+flask
